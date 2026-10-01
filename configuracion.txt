@@ -1,0 +1,6 @@
+Configuración del proyecto:
+
+ENTORNO=Desarrollo
+VERSION=1.0.0
+REPOSITORIO_REMOTO=https://github.com/Vitaaa03/TP-Nro-2-UDI
+RAMA_PRINCIPAL=master
