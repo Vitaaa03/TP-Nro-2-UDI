@@ -1,0 +1,14 @@
+franco batton
+Notas sobre el proyecto y tecnologías utilizadas:
+
+- Git: Sistema de control de versiones distribuido para rastrear cambios en el código fuente.
+- GitHub: Plataforma basada en la nube para alojar y colaborar en repositorios de Git.
+- Visual Studio Code: Editor de código fuente utilizado para el desarrollo.
+
+Pasos del flujo de trabajo a realizar:
+1. Crear rama de características (feature).
+2. Realizar cambios y registrar commits con mensajes descriptivos.
+3. Sincronizar la rama con master antes de subir cambios.
+4. Simular y resolver conflicto intencional entre ramas.
+5. Realizar Pull Request y Merge en GitHub.
+6. Aplicar cherry-pick y revert en el historial.
