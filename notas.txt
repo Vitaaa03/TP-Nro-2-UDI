@@ -1,3 +1,4 @@
+Facundo Vitali
 franco batton
 Notas sobre el proyecto y tecnologías utilizadas:
 
@@ -11,4 +12,4 @@ Pasos del flujo de trabajo a realizar:
 3. Sincronizar la rama con master antes de subir cambios.
 4. Simular y resolver conflicto intencional entre ramas.
 5. Realizar Pull Request y Merge en GitHub.
-6. Aplicar cherry-pick y revert en el historial.
+6. Aplicar ch
