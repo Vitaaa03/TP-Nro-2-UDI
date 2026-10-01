@@ -1,0 +1,5 @@
+Notas sobre el proyecto y tecnologías utilizadas:
+
+- Git: Sistema de control de versiones distribuido para rastrear cambios en el código fuente.
+- GitHub: Plataforma basada en la nube para alojar y colaborar en repositorios de Git.
+- Visual Studio Code: Editor de código fuente utilizado para el desarrollo.
